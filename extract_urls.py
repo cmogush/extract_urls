@@ -10,17 +10,25 @@ def extract_urls(text):
     urls = re.findall(pattern, text)
     return urls
 
-def get_data(src):
-    """returns a list of dictionaries to convert to csv rows"""
+def write_csv(fieldnames, rows, output_name):
+    """write the csv to file"""
+    with open(dest + '/' + output_name + '.csv', 'w', newline='') as csvFile:
+        writer = csv.DictWriter(csvFile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+def main():
     rows = []
-    #iterate over the directory
     for file in os.listdir(src):
-        with open(file, 'r') as f:
+        with open(src + "/" + file, 'r') as f:
+            text = f.read().replace('\n', '') # read the file in as a string
+            urls = extract_urls(text)
             f, e = os.path.splitext(os.path.basename(file))
-            data = f.readlines()
-    #TODO: get urls
-    # row = filename, extension, url
-    return rows
+            for url in urls:
+                row = {'file': f, 'extension': e, 'url': url}
+                rows.append(row)
+    fieldnames = ['file', 'extension', 'url']
+    write_csv(fieldnames, rows, 'url_report')
 
-#TODO: compile into a dictionary to write to CSV
-
+if __name__ == '__main__':
+    main()
