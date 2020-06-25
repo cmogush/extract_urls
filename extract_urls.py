@@ -6,7 +6,7 @@ dest = src
 
 def extract_urls(text):
     """returns a list of all urls from file"""
-    pattern = r"http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+"
+    pattern = r"[ftp|http]{3,4}[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+"
     urls = re.findall(pattern, text)
     return urls
 
