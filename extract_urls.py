@@ -1,8 +1,9 @@
 import os, csv, re
 from pathlib import Path
 
-src = r"C:\Users\Chris\Desktop\Python Scripts\extract_urls\test_dir"
+src = r"E:\db"
 dest = src
+rows = []
 
 def extract_urls(text):
     """returns a list of all urls from file"""
@@ -17,17 +18,31 @@ def write_csv(fieldnames, rows, output_name):
         writer.writeheader()
         writer.writerows(rows)
 
-def main():
-    rows = []
-    for file in os.listdir(src):
-        with open(src + "/" + file, 'r') as f:
-            text = f.read().replace('\n', '') # read the file in as a string
+def process_file(full_path, file):
+    fname, ext = os.path.splitext(file)
+    with open(full_path + "/" + file, 'r') as f:
+        try:
+            text = f.read().replace('\n', '')  # read the file in as a string
             urls = extract_urls(text)
-            f, e = os.path.splitext(os.path.basename(file))
             for url in urls:
-                row = {'file': f, 'extension': e, 'url': url}
+                row = {'path': full_path, 'file': fname, 'extension': ext, 'url': url}
                 rows.append(row)
-    fieldnames = ['file', 'extension', 'url']
+            print("{} processed".format(file))
+        except:
+            print("{} does not contain text".format(file))
+
+def dir_recursion(parentFolder, folder):
+    full_path = os.path.join(parentFolder, folder)
+    for entry in os.listdir(full_path):
+        if os.path.isdir(os.path.join(full_path,entry)): # full path + entry needed
+            dir_recursion(full_path, entry)
+        else:
+            process_file(full_path, entry)
+
+
+def main():
+    dir_recursion("", src)
+    fieldnames = ['path', 'file', 'extension', 'url']
     write_csv(fieldnames, rows, 'url_report')
 
 if __name__ == '__main__':
