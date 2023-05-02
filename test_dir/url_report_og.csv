@@ -1,0 +1,151 @@
+file,extension,url,Result,Details,UpdatedURL
+testfile,.txt,http://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit1/Lesson1/Arts_Alive_th3_U1L1.swf,Redirected,URL should be updated to match Redirected URL,https://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit1/Lesson1/Arts_Alive_th3_U1L1.swf
+testfile,.txt,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson1/arts_alive_jr3_U1L1_Pic1.jpg,Success,,
+Unit-1-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/smalllogo.jpg,Success,,
+Unit-1-Lesson-1,.html,http://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit1/Lesson1/Arts_Alive_th3_U1L1.swf,Redirected,URL should be updated to match Redirected URL,https://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit1/Lesson1/Arts_Alive_th3_U1L1.swf
+Unit-1-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson1/arts_alive_jr3_U1L1_Pic1.jpg,Success,,
+Unit-1-Lesson-1,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/keyconcept_tab.png,Success,,
+Unit-1-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson1/arts_alive_jr3_U1L1_Pic2.png,Success,,
+Unit-1-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson1/arts_alive_jr3_U1L1_Pic3.jpg,Success,,
+Unit-1-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson1/arts_alive_jr3_U1L1_Pic4.jpg,Success,,
+Unit-1-Lesson-1,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/enrichment_tab.png,Success,,
+Unit-1-Lesson-1,.html,http://www.worldatlas.com/webimage/countrys/europe/it.htm,Redirected,URL should be updated to match Redirected URL,https://www.worldatlas.com/webimage/countrys/europe/it.htm
+Unit-1-Lesson-1,.html,http://italian.classic-literature.co.uk/di-dante-alighieri/di-dante-alighieri-biography.asp,Redirected,URL should be updated to match Redirected URL,https://italian.classic-literature.co.uk/di-dante-alighieri/di-dante-alighieri-biography.asp
+Unit-1-Lesson-1,.html,http://italian.about.com/library/anthology/dante/blaboutdante.htm,Redirected,URL should be updated to match Redirected URL,https://www.thoughtco.com/italian-by-the-numbers-2011492
+Unit-1-Lesson-1,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/reinforcement_tab.png,Success,,
+Unit-1-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson1/arts_alive_jr3_AnswerKey_inter_FinalC.doc,403,"('Forbidden', 'Request forbidden -- authorization will not help')",
+Unit-1-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson1/arts_alive_jr3_U1L1_Pic5.png,Success,,
+Unit-1-Lesson-1,.html,http://www.theitalianexperiment.com/learn-italian/days-of-week.php,Redirected,URL should be updated to match Redirected URL,https://www.theitalianexperiment.com/learn-italian/days-of-week
+Unit-1-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/smalllogo.jpg,Success,,
+Unit-1-Lesson-2,.html,http://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit1/Lesson2/Arts_Alive_th3_U1L2.swf,Redirected,URL should be updated to match Redirected URL,https://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit1/Lesson2/Arts_Alive_th3_U1L2.swf
+Unit-1-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson2/arts_alive_jr3_U1L2_Pic1.jpg,Success,,
+Unit-1-Lesson-2,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/keyconcept_tab.png,Success,,
+Unit-1-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson2/arts_alive_jr3_U1L2_Pic2.png,Success,,
+Unit-1-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson2/arts_alive_jr3_U1L2_Pic3.jpg,Success,,
+Unit-1-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson2/arts_alive_jr3_U1L2_Pic4.jpg,Success,,
+Unit-1-Lesson-2,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/enrichment_tab.png,Success,,
+Unit-1-Lesson-2,.html,http://www.worldatlas.com/webimage/countrys/europe/it.htm,Redirected,URL should be updated to match Redirected URL,https://www.worldatlas.com/webimage/countrys/europe/it.htm
+Unit-1-Lesson-2,.html,http://www.italiansrus.com/articles/subs/crooners.htm,Success,,
+Unit-1-Lesson-2,.html,http://www.joenegri.com/bio.asp,404,"('Not Found', 'Nothing matches the given URI')",
+Unit-1-Lesson-2,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/reinforcement_tab.png,Success,,
+Unit-1-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson2/arts_alive_jr3_AnswerKey_inter_FinalC.doc,403,"('Forbidden', 'Request forbidden -- authorization will not help')",
+Unit-1-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson2/arts_alive_jr3_U1L2_Pic5.png,Success,,
+Unit-1-Lesson-2,.html,http://my-hit.com/elvis-presley-it-s-now-or-never/2,Redirected,URL should be updated to match Redirected URL,http://ww25.my-hit.com/elvis-presley-it-s-now-or-never/2
+Unit-1-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/smalllogo.jpg,Success,,
+Unit-1-Lesson-4,.html,http://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit1/Lesson4/Arts_Alive_th3_U1L4.swf,Redirected,URL should be updated to match Redirected URL,https://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit1/Lesson4/Arts_Alive_th3_U1L4.swf
+Unit-1-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson4/arts_alive_jr3_U1L4_Pic1.png,Success,,
+Unit-1-Lesson-4,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/keyconcept_tab.png,Success,,
+Unit-1-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson4/arts_alive_jr3_U1L4_Pic2.png,Success,,
+Unit-1-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson4/arts_alive_jr3_U1L4_Pic3.jpg,Success,,
+Unit-1-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson4/arts_alive_jr3_U1L4_Pic4.jpg,Success,,
+Unit-1-Lesson-4,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/enrichment_tab.png,Success,,
+Unit-1-Lesson-4,.html,http://www.ehow.com/video_2389701_overview-sounds-stage-combat.html,Redirected,URL should be updated to match Redirected URL,https://www.ehow.com/arts/
+Unit-1-Lesson-4,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/reinforcement_tab.png,Success,,
+Unit-1-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson4/arts_alive_jr3_AnswerKey_inter_FinalC.doc,403,"('Forbidden', 'Request forbidden -- authorization will not help')",
+Unit-1-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit1/Lesson4/arts_alive_jr3_U1L5_Pic5.png,Success,,
+Unit-2-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/smalllogo.jpg,Success,,
+Unit-2-Lesson-2,.html,http://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit2/Lesson2/Arts_Alive_th3_U2L2.swf,Redirected,URL should be updated to match Redirected URL,https://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit2/Lesson2/Arts_Alive_th3_U2L2.swf
+Unit-2-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit2/Lesson2/arts_alive_th3_U2L2_Pic1.jpg,Success,,
+Unit-2-Lesson-2,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/keyconcept_tab.png,Success,,
+Unit-2-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit2/Lesson2/arts_alive_th3_U2L2_Pic2.jpg,Success,,
+Unit-2-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit2/Lesson2/arts_alive_th3_U2L2_Pic4.jpg,Success,,
+Unit-2-Lesson-2,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/enrichment_tab.png,Success,,
+Unit-2-Lesson-2,.html,http://www.worldatlas.com/webimage/countrys/af.htm,Redirected,URL should be updated to match Redirected URL,https://www.worldatlas.com/webimage/countrys/af.htm
+Unit-2-Lesson-2,.html,http://www.linkedin.com/pub/harvey-johnson/13/934/962,999,,
+Unit-2-Lesson-2,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/reinforcement_tab.png,Success,,
+Unit-2-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit2/Lesson2/arts_alive_th3_U2L2_AnswerKey_inter_FinalC.doc,403,"('Forbidden', 'Request forbidden -- authorization will not help')",
+Unit-2-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit2/Lesson2/arts_alive_th3_U2L2_Pic5.jpg,Success,,
+Unit-2-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/smalllogo.jpg,Success,,
+Unit-2-Lesson-3,.html,http://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit2/Lesson3/Arts_Alive_th3_U2L3.swf,Redirected,URL should be updated to match Redirected URL,https://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit2/Lesson3/Arts_Alive_th3_U2L3.swf
+Unit-2-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit2/Lesson3/arts_alive_th3_U2L3_Pic1.jpg,Success,,
+Unit-2-Lesson-3,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/keyconcept_tab.png,Success,,
+Unit-2-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit2/Lesson3/arts_alive_th3_U2L3_Pic2.jpg,Success,,
+Unit-2-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit2/Lesson3/arts_alive_th3_U2L3_Pic3.jpg,Success,,
+Unit-2-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit2/Lesson3/arts_alive_th3_U2L3_Pic4.jpg,Success,,
+Unit-2-Lesson-3,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/enrichment_tab.png,Success,,
+Unit-2-Lesson-3,.html,http://www.worldatlas.com/webimage/countrys/af.htm,Redirected,URL should be updated to match Redirected URL,https://www.worldatlas.com/webimage/countrys/af.htm
+Unit-2-Lesson-3,.html,http://www.atdf.org/awards/bojangles.html,404,"('Not Found', 'Nothing matches the given URI')",
+Unit-2-Lesson-3,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/reinforcement_tab.png,Success,,
+Unit-2-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit2/Lesson3/arts_alive_th3_U2L3_AnswerKey_inter_FinalC.doc,403,"('Forbidden', 'Request forbidden -- authorization will not help')",
+Unit-2-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit2/Lesson3/arts_alive_th3_U2L3_Pic5.jpg,Success,,
+Unit-3-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/smalllogo.jpg,Success,,
+Unit-3-Lesson-1,.html,http://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit3/Lesson1/Arts_Alive_th3_U3L1.swf,Redirected,URL should be updated to match Redirected URL,https://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit3/Lesson1/Arts_Alive_th3_U3L1.swf
+Unit-3-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson1/arts_alive_th3_U3L1_Pic1.jpg,Success,,
+Unit-3-Lesson-1,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/keyconcept_tab.png,Success,,
+Unit-3-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson1/arts_alive_th3_U3L1_Pic2.jpg,Success,,
+Unit-3-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson1/arts_alive_th3_U3L1_Pic3.jpg,Success,,
+Unit-3-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson1/arts_alive_th3_U3L1_Pic4.jpg,Success,,
+Unit-3-Lesson-1,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/enrichment_tab.png,Success,,
+Unit-3-Lesson-1,.html,http://www.worldatlas.com/webimage/countrys/europe/ie.htm,Redirected,URL should be updated to match Redirected URL,https://www.worldatlas.com/webimage/countrys/europe/ie.htm
+Unit-3-Lesson-1,.html,http://www.fiddlingaround.co.uk/ireland/irishfiddling.html,Success,,
+Unit-3-Lesson-1,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/reinforcement_tab.png,Success,,
+Unit-3-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson1/arts_alive_th3_U3L1_AnswerKey_inter_FinalC.doc,403,"('Forbidden', 'Request forbidden -- authorization will not help')",
+Unit-3-Lesson-1,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson1/arts_alive_th3_U3L1_Pic5.jpg,Success,,
+Unit-3-Lesson-1,.html,http://pybertra.free.fr/ceol/ceolrinc.htm,Success,,
+Unit-3-Lesson-1,.html,http://www.fiddleheads.ca/writings/violin_or_fiddle.htm,Success,,
+Unit-3-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/smalllogo.jpg,Success,,
+Unit-3-Lesson-2,.html,http://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit3/Lesson2/Arts_Alive_th3_U3L2.swf,Redirected,URL should be updated to match Redirected URL,https://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit3/Lesson2/Arts_Alive_th3_U3L2.swf
+Unit-3-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson2/arts_alive_th3_U3L2_Pic2.jpg,Success,,
+Unit-3-Lesson-2,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/keyconcept_tab.png,Success,,
+Unit-3-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson2/arts_alive_th3_U3L2_Pic1.jpg,Success,,
+Unit-3-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson2/arts_alive_th3_U3L2_Pic3.jpg,Success,,
+Unit-3-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson2/arts_alive_th3_U3L2_Pic4.jpg,Success,,
+Unit-3-Lesson-2,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/enrichment_tab.png,Success,,
+Unit-3-Lesson-2,.html,http://www.irelandseye.com/dance.html,Success,,
+Unit-3-Lesson-2,.html,http://www.riverdance.com/,Redirected,URL should be updated to match Redirected URL,https://riverdance.com/
+Unit-3-Lesson-2,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/reinforcement_tab.png,Success,,
+Unit-3-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson2/arts_alive_th3_U3L2_AnswerKey_inter_FinalC.doc,403,"('Forbidden', 'Request forbidden -- authorization will not help')",
+Unit-3-Lesson-2,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson2/arts_alive_th3_U3L2_Pic5.jpg,Success,,
+Unit-3-Lesson-2,.html,http://www.pecentral.org/lessonideas/ViewLesson.asp?ID=6465,Redirected,URL should be updated to match Redirected URL,https://www.pecentral.org/lessonideas/ViewLesson.asp?ID=6465
+Unit-3-Lesson-2,.html,http://www.pecentral.org/lessonideas/ViewLesson.asp?ID=9926,Redirected,URL should be updated to match Redirected URL,https://www.pecentral.org/lessonideas/ViewLesson.asp?ID=9926
+Unit-3-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/smalllogo.jpg,Success,,
+Unit-3-Lesson-3,.html,http://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit3/Lesson3/Arts_Alive_th3_U3L3.swf,Redirected,URL should be updated to match Redirected URL,https://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit3/Lesson3/Arts_Alive_th3_U3L3.swf
+Unit-3-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson3/arts_alive_th3_U3L3_Pic1.jpg,Success,,
+Unit-3-Lesson-3,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/keyconcept_tab.png,Success,,
+Unit-3-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson3/arts_alive_th3_U3L3_Pic2.jpg,Success,,
+Unit-3-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson3/arts_alive_th3_U3L3_Pic3.jpg,Success,,
+Unit-3-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson3/arts_alive_th3_U3L3_Pic4.jpg,Success,,
+Unit-3-Lesson-3,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/enrichment_tab.png,Success,,
+Unit-3-Lesson-3,.html,http://www.historyplace.com/worldhistory/famine/introduction.htm,Success,,
+Unit-3-Lesson-3,.html,http://www.daypoems.net/poems/2067.html,Success,,
+Unit-3-Lesson-3,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/reinforcement_tab.png,Success,,
+Unit-3-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson3/arts_alive_th3_U3L3_AnswerKey_inter_FinalC.doc,403,"('Forbidden', 'Request forbidden -- authorization will not help')",
+Unit-3-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson3/arts_alive_th3_U3L3_Pic5.jpg,Success,,
+Unit-3-Lesson-3,.html,http://www.irishhistorylinks.net/Irish_History_Timeline.html,Success,,
+Unit-3-Lesson-3,.html,http://www.irishcentral.com/opinion/others/Why-the-real-story-of-the-great-Irish-exodus-to-America-isnt-taught-in-US-schools.html,Redirected,URL should be updated to match Redirected URL,https://www.irishcentral.com/opinion/others/irish-history-not-taught-us-schools
+Unit-3-Lesson-3,.html,http://www.irishcentral.com/roots/our-top-ten-irish-novelists-of-all-time-126080063-237787691.html,Redirected,URL should be updated to match Redirected URL,https://www.irishcentral.com/roots/best-irish-writers
+Unit-3-Lesson-3,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson3/arts_alive_th3_U3L3_Pic6.jpg,Success,,
+Unit-3-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/smalllogo.jpg,Success,,
+Unit-3-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson4/arts_alive_th3_U3L4_Pic1.jpg,Success,,
+Unit-3-Lesson-4,.html,http://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit3/Lesson4/Arts_Alive_th3_U3L4.swf,Redirected,URL should be updated to match Redirected URL,https://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit3/Lesson4/Arts_Alive_th3_U3L4.swf
+Unit-3-Lesson-4,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/keyconcept_tab.png,Success,,
+Unit-3-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson4/arts_alive_th3_U3L4_Pic2.jpg,Success,,
+Unit-3-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson4/arts_alive_th3_U3L4_Pic3.jpg,Success,,
+Unit-3-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson4/arts_alive_th3_U3L4_Pic4.jpg,Success,,
+Unit-3-Lesson-4,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/enrichment_tab.png,Success,,
+Unit-3-Lesson-4,.html,http://www.worldatlas.com/webimage/countrys/europe/ie.htm,Redirected,URL should be updated to match Redirected URL,https://www.worldatlas.com/webimage/countrys/europe/ie.htm
+Unit-3-Lesson-4,.html,http://www.ireland-fun-facts.com/irish-crafts.html,Redirected,URL should be updated to match Redirected URL,https://www.ireland-fun-facts.com/irish-crafts.html
+Unit-3-Lesson-4,.html,http://www.ehow.com/about_5050353_irish-sweater-history.html,Redirected,URL should be updated to match Redirected URL,https://oureverydaylife.com/relationships-family/
+Unit-3-Lesson-4,.html,http://www.sacramentoartglass.com/the-process-of-blowing-glass.html,Success,,
+Unit-3-Lesson-4,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/reinforcement_tab.png,Success,,
+Unit-3-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson4/arts_alive_th3_U3L4_AnswerKey_inter_FinalC.doc,403,"('Forbidden', 'Request forbidden -- authorization will not help')",
+Unit-3-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson4/arts_alive_th3_U3L4_Pic6.jpg,Success,,
+Unit-3-Lesson-4,.html,http://earlymedievalirishtuath.wikispaces.com/Artisans,Redirected,URL should be updated to match Redirected URL,https://earlymedievalirishtuath.wikispaces.com/Artisans
+Unit-3-Lesson-4,.html,http://www.visual-arts-cork.com/crafts-history-types.htm,Success,,
+Unit-3-Lesson-4,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson4/arts_alive_th3_U3L4_Pic7.jpg,Success,,
+Unit-3-Lesson-5,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/smalllogo.jpg,Success,,
+Unit-3-Lesson-5,.html,http://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit3/Lesson5/Arts_Alive_th3_U3L5.swf,Redirected,URL should be updated to match Redirected URL,https://flash.lincolninteractive.com/ArtsAlive/third_theme/Unit3/Lesson5/Arts_Alive_th3_U3L5.swf
+Unit-3-Lesson-5,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson5/arts_alive_th3_U3L5_Pic1.jpg,Success,,
+Unit-3-Lesson-5,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/keyconcept_tab.png,Success,,
+Unit-3-Lesson-5,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson5/arts_alive_th3_U3L5_Pic2.jpg,Success,,
+Unit-3-Lesson-5,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson5/arts_alive_th3_U3L5_Pic3.jpg,Success,,
+Unit-3-Lesson-5,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson5/arts_alive_th3_U3L5_Pic4.jpg,Success,,
+Unit-3-Lesson-5,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson5/arts_alive_th3_U3L5_Pic5.jpg,Success,,
+Unit-3-Lesson-5,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/enrichment_tab.png,Success,,
+Unit-3-Lesson-5,.html,http://www.safaritheglobe.com/ireland/culture/,Redirected,URL should be updated to match Redirected URL,http://www.justinrdodge.com/baskerville-press/
+Unit-3-Lesson-5,.html,http://chuma.cas.usf.edu/,Success,,
+Unit-3-Lesson-5,.html,https://assets.lincolninteractive.org/buttons_tabs/current_tabs/reinforcement_tab.png,Success,,
+Unit-3-Lesson-5,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson5/arts_alive_th3_U3L5_AnswerKey_inter_FinalC.doc,403,"('Forbidden', 'Request forbidden -- authorization will not help')",
+Unit-3-Lesson-5,.html,https://artsaliverepo.s3.amazonaws.com/Arts_Alive/third_theme/Unit3/Lesson5/arts_alive_th3_U3L5_Pic6.jpg,Success,,
+Unit-3-Lesson-5,.html,http://www.childdrama.com/lessons.html,Success,,
+Unit-3-Lesson-5,.html,http://www.corsinet.com/trivia/irish_proverbs.html,Success,,

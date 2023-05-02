@@ -1,7 +1,7 @@
-import os, csv, re
+import os, csv, re, PyPDF2
 from pathlib import Path
 
-src = r"E:\db"
+src = r"C:\Users\Chris\Desktop\Edison\Link Checks\Textbook Links\TB-AK-and-AWB"
 dest = src
 rows = []
 
@@ -20,16 +20,30 @@ def write_csv(fieldnames, rows, output_name):
 
 def process_file(full_path, file):
     fname, ext = os.path.splitext(file)
-    with open(full_path + "/" + file, 'r') as f:
+    if ext == ".pdf":
         try:
-            text = f.read().replace('\n', '')  # read the file in as a string
-            urls = extract_urls(text)
-            for url in urls:
-                row = {'path': full_path, 'file': fname, 'extension': ext, 'url': url}
-                rows.append(row)
-            print("{} processed".format(file))
+            with open(full_path + "/" + file, "rb") as f:
+                read_pdf = PyPDF2.PdfFileReader(f)
+                page = read_pdf.pages[0]
+                text = page.extractText().replace('\n', '')
+                urls = extract_urls(text)
+                for url in urls:
+                    row = {'path': full_path, 'file': fname, 'extension': ext, 'url': url}
+                    rows.append(row)
+                print("{} processed".format(file))
         except:
             print("{} does not contain text".format(file))
+    else:
+        with open(full_path + "/" + file, 'r') as f:
+            try:
+                text = f.read().replace('\n', '')  # read the file in as a string
+                urls = extract_urls(text)
+                for url in urls:
+                    row = {'path': full_path, 'file': fname, 'extension': ext, 'url': url}
+                    rows.append(row)
+                print("{} processed".format(file))
+            except:
+                print("{} does not contain text".format(file))
 
 def dir_recursion(parentFolder, folder):
     full_path = os.path.join(parentFolder, folder)
@@ -44,6 +58,7 @@ def main():
     dir_recursion("", src)
     fieldnames = ['path', 'file', 'extension', 'url']
     write_csv(fieldnames, rows, 'url_report')
+    print('url_report written')
 
 if __name__ == '__main__':
     main()
